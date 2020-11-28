@@ -1,7 +1,7 @@
 
 import decimal as d
 
-print("It's a new world")
+
 studdict = {}
 admission_count = 15
 gpa = 5
